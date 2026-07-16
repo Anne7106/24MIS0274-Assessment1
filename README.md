@@ -1,1 +1,1 @@
-# 24MIS0274-Assessment1
+print("Hospital Appointment Booking System")
