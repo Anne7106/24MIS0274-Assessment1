@@ -8,4 +8,4 @@ if u==username and p==password:
     print("Patient Login")
 else:
     print("Incorrect username or password")
-print("Feature change branch")
+print("Patient module")
